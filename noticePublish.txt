@@ -1,3 +1,4 @@
 Here all the notices will be shared regarding this git-demo project.
 
 1. Commit timings have been changed to 8pm IST.
+2. All employees are subjected to cctv surveillance.
