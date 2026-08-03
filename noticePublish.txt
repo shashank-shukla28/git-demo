@@ -1,3 +1,3 @@
 Here all the notices will be shared regarding this git-demo project.
 
-1. Commit timing have changed to 8pm IST.
+1. Commit timings have changed to 8pm IST.
